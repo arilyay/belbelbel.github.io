@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+Kelompok RPL
 
-Template Name: Lumia
-Template URL: https://bootstrapmade.com/lumia-bootstrap-business-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+1. Alyaa Salsabel G (M0519012)
